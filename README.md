@@ -1,7 +1,8 @@
 ﻿# Free Caboose
 
 This is a mod for the video game Derail Valley created by Altfuture.  
-It sets the price of summoning all crew vehicles to 0
+It sets the price of summoning all crew vehicles to 0.
+Since the Handcar is already free the only one affected is the Caboose
 
 Download: [Nexus Mods](https://www.nexusmods.com/derailvalley/mods/521)  
 Install using [Unity Mod Manager](https://www.nexusmods.com/site/mods/21)
