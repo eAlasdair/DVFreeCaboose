@@ -1,4 +1,9 @@
 ﻿{
   "Releases": [
+    {
+      "Id": "FreeCabooseMod",
+      "Version": "1.0.0",
+      "DownloadUrl": "https://github.com/eAlasdair/DVFreeCaboose/releases/download/v1.0.0/FreeCabooseMod-1-0-0.zip"
+    }
   ]
 }
