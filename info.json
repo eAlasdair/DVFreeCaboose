@@ -6,6 +6,6 @@
   "LoadAfter": [],
   "AssemblyName": "FreeCabooseMod.dll",
   "EntryMethod": "FreeCabooseMod.Main.Load",
-  "HomePage": "",
-  "Repository": ""
+  "HomePage": "https://www.nexusmods.com/derailvalley/mods/521",
+  "Repository": "https://raw.githubusercontent.com/eAlasdair/DVFreeCaboose/main/repository.json"
 }
