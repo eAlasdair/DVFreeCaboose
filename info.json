@@ -1,0 +1,11 @@
+﻿{
+  "Id": "FreeCabooseMod",
+  "DisplayName": "Free Caboose",
+  "Author": "GamingCoookie & Talkingpeanut",
+  "Version": "1.0.0",
+  "LoadAfter": [],
+  "AssemblyName": "FreeCabooseMod.dll",
+  "EntryMethod": "FreeCabooseMod.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}
